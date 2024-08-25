@@ -4,6 +4,16 @@
 }
 
 
+@property --border-bright-color{
+  syntax: "*";
+  inherits: false;
+  initial-value: 2px solid #545454;;
+}
+@property --border-dark-color{
+  syntax: "*";
+  inherits: false;
+  initial-value: 2px solid #020102;
+}
 @property --card-border-gradient{
   syntax: "*";
   inherits: false;
