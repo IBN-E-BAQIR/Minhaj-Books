@@ -17,7 +17,7 @@ Click on the Title to download Pdf
 [7. معارف الکوثر](https://www.minhajbooks.com/urdu/book/7)<br/>
 [8. فلسفہ تسمیہ](https://www.minhajbooks.com/urdu/book/8)<br/>
 [9. معارف اسم اللہ](https://www.minhajbooks.com/urdu/book/9)<br/>
-[10. )مناہج العرفان فی لفظ القرآن (لفظ قرآن کے معانی و معارف](https://www.minhajbooks.com/urdu/book/10)<br/>
+[10. مناہج العرفان فی لفظ القرآن لفظ قرآن کے معانی و معارف](https://www.minhajbooks.com/urdu/book/10)<br/>
 [11. ](https://www.minhajbooks.com/urdu/book/11)<br/>
 [12. ](https://www.minhajbooks.com/urdu/book/12)<br/>
 [13. ](https://www.minhajbooks.com/urdu/book/13)<br/>
