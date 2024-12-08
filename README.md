@@ -6,10 +6,10 @@ Click on the Title to download Pdf
   
 </details>
 
-[1. عرفان القرآن](https://www.irfan-ul-quran.com/english/tid/55235/download-irfan-ul-quran-translation-by-dr-tahir-ul-qadri-in-pdf.html)
-[2. پاکستان میں گندم کی پیداوار (طلب اور رسد کا تقابلی جائزہ)](https://www.minhajbooks.com/urdu/book/2)
-[3. تفسیر منہاج القرآن (سورۃ الفاتحہ، جزو اول)](https://www.minhajbooks.com/urdu/book/3)
-[4. ](https://www.minhajbooks.com/urdu/book/4)
+[1. عرفان القرآن](https://www.irfan-ul-quran.com/english/tid/55235/download-irfan-ul-quran-translation-by-dr-tahir-ul-qadri-in-pdf.html)<br/>
+[2. پاکستان میں گندم کی پیداوار (طلب اور رسد کا تقابلی جائزہ)](https://www.minhajbooks.com/urdu/book/2)<br/>
+[3. تفسیر منہاج القرآن (سورۃ الفاتحہ، جزو اول)](https://www.minhajbooks.com/urdu/book/3)<br/>
+[4. ](https://www.minhajbooks.com/urdu/book/4)<br/>
 [5. ](https://www.minhajbooks.com/urdu/book/5)
 [6. ](https://www.minhajbooks.com/urdu/book/6)
 [7. ](https://www.minhajbooks.com/urdu/book/7)
