@@ -3,8 +3,10 @@
 <br/>
 
 Click on the Title to download Pdf
-  
-<summary>Download From Book Title</summary>
+
+</details>
+
+<details><summary>Download From Book Title</summary>
 
 [1. عرفان القرآن](https://www.irfan-ul-quran.com/english/tid/55235/download-irfan-ul-quran-translation-by-dr-tahir-ul-qadri-in-pdf.html)<br/>
 [2. پاکستان میں گندم کی پیداوار (طلب اور رسد کا تقابلی جائزہ)](https://www.minhajbooks.com/urdu/book/2)<br/>
@@ -77,4 +79,4 @@ Click on the Title to download Pdf
 [69. ](https://www.minhajbooks.com/urdu/book/69)<br/>
 [70. ](https://www.minhajbooks.com/urdu/book/70)<br/>
 
-<\details>
+</details>
