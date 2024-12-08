@@ -6,18 +6,18 @@ Click on the Title to download Pdf
   
 </details>
 
-<details> <summary>Download by Title</summary>
+<details> <summary>Download From Book Title</summary>
 
 [1. عرفان القرآن](https://www.irfan-ul-quran.com/english/tid/55235/download-irfan-ul-quran-translation-by-dr-tahir-ul-qadri-in-pdf.html)<br/>
 [2. پاکستان میں گندم کی پیداوار (طلب اور رسد کا تقابلی جائزہ)](https://www.minhajbooks.com/urdu/book/2)<br/>
 [3. تفسیر منہاج القرآن (سورۃ الفاتحہ، جزو اول)](https://www.minhajbooks.com/urdu/book/3)<br/>
-[4. ](https://www.minhajbooks.com/urdu/book/4)<br/>
-[5. ](https://www.minhajbooks.com/urdu/book/5)<br/>
-[6. ](https://www.minhajbooks.com/urdu/book/6)<br/>
-[7. ](https://www.minhajbooks.com/urdu/book/7)<br/>
-[8. ](https://www.minhajbooks.com/urdu/book/8)<br/>
-[9. ](https://www.minhajbooks.com/urdu/book/9)<br/>
-[10. ](https://www.minhajbooks.com/urdu/book/10)<br/>
+[4. تفسیر منہاج القرآن (سورۃ البقرہ)](https://www.minhajbooks.com/urdu/book/4)<br/>
+[5. حکمت استعاذہ](https://www.minhajbooks.com/urdu/book/5)<br/>
+[6. تسمیۃ القرآن تفسیر بسمِ اللہ الرّحمانِ الرّحیمِ](https://www.minhajbooks.com/urdu/book/6)<br/>
+[7. معارف الکوثر](https://www.minhajbooks.com/urdu/book/7)<br/>
+[8. فلسفہ تسمیہ](https://www.minhajbooks.com/urdu/book/8)<br/>
+[9. معارف اسم اللہ](https://www.minhajbooks.com/urdu/book/9)<br/>
+[10. )مناہج العرفان فی لفظ القرآن (لفظ قرآن کے معانی و معارف](https://www.minhajbooks.com/urdu/book/10)<br/>
 [11. ](https://www.minhajbooks.com/urdu/book/11)<br/>
 [12. ](https://www.minhajbooks.com/urdu/book/12)<br/>
 [13. ](https://www.minhajbooks.com/urdu/book/13)<br/>
